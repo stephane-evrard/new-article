@@ -1,0 +1,48 @@
+body{
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: center;
+    margin: 15 px;
+    padding: 10px;
+
+}
+h1.introduction {
+    font-family: Georgia;
+    color: rgb(16, 17, 17);
+    background-color: gold;
+    font-size: 18px;
+  }
+  h2.introduction {
+    font-family: Verdana;
+    color: green;
+  }
+  div {
+    width: 800px;
+    display: inline-block;
+  }
+  img.introduction {
+    height: 50%;
+    width: 25%;
+  }
+  p.introduction {
+    font-style: oblique;
+    color: white;
+    font-family: "Comic Sans MS", sans-serif;
+  }
+  section{
+    background: limegreen;
+    color: white;
+    font-family: "Comic Sans MS", sans-serif;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+    box-shadow: 0 5px 10px black;
+}
+section article{
+    background:slateblue;    
+    
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+    box-shadow: 0 5px 10px black;
+}
+  
